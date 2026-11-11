@@ -13,7 +13,7 @@
 
 - 💼 Currently working as a Software Engineer at AlterSense Limited.
 - 🚀 Experienced in ERPNext and Frappe application development.
-- 🏢 Working on B2B solutions, including HR module development.
+- 🏢 Working on B2B solutions, and Contributing to the development and customization of ERPNext-based business solutions.
 - 🔧 Interested in backend development, REST APIs, and business process automation.
 - 🎓 B.Sc. in Computer Science & Engineering from KUET.
 - 🌱 Continuously learning and improving my software engineering skills.
