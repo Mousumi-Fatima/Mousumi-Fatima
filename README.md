@@ -47,26 +47,6 @@
 - Linux
 - VS Code
 
-### 💼 Professional Experience
-
-**Full Stack Engineer | AlterSense Limited**
-
-- Developing and customizing ERPNext applications.
-- Working on HR module features and employee lifecycle processes.
-- Building custom DocTypes, workflows, and business logic.
-- Developing server-side functionality using Python.
-- Implementing client-side functionality using JavaScript.
-- Working with REST APIs, hooks, background jobs, and role-based permissions.
-- Creating reports and print formats.
-
-### 🚀 Featured Projects
-
-- **Online University Admission System** — A web-based university admission application system.
-- **Auto Text Prediction** — NLP-based text prediction using GRU and BiLSTM.
-- **Nim Game** — A Python implementation using the Minimax algorithm.
-- **A School Using OpenGL** — A graphics-based project using C and OpenGL.
-- **DBMS Project** — Database management system project.
-
 ### 🎓 Education
 
 **B.Sc. in Computer Science & Engineering**  
