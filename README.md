@@ -54,5 +54,7 @@ Khulna University of Engineering & Technology (KUET) | 2024
 
 ### 📫 Connect With Me
 
+- LinkedIn: https://www.linkedin.com/in/mousumifatima/
 - GitHub: [Mousumi-Fatima](https://github.com/Mousumi-Fatima)
 - Email: mousumifatima16@gmail.com
+- Portfolio: https://www.linkedin.com/in/mousumifatima/
