@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mousumi Fatima</h1>
 
-<h3 align="center">Full Stack Engineer | ERPNext & Frappe Developer</h3>
+<h3 align="center">Software Engineer | ERPNext & Frappe Developer</h3>
 
 <p align="center">
   Building practical business solutions with Python, JavaScript, and ERPNext.
